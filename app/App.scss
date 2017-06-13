@@ -1,0 +1,54 @@
+@import '../node_modules/normalize.css/normalize.css';
+@import '../app/variables.scss';
+
+
+/*
+*                  BASE STYLES
+*=================================================== */
+html {
+  color: #222;
+  -webkit-font-soothing: aliased;
+}
+
+
+
+
+/*
+*                  Gallery Styles
+*=================================================== */
+
+.data-list {
+    display: block;
+    position: relative;
+}
+
+.data-list-item {display: inline-block;}
+
+img {position: relative;max-width: 20em;}
+
+.details {
+}
+
+.details {
+    display: inline-block;
+}
+
+a.details--image {
+    display: block;
+}
+
+a.details--title {
+    display: block;
+    text-align: center;
+    font-size: 1.5em;
+    text-decoration: none;
+    color: #3F3F3F;
+    text-transform: uppercase;
+}
+
+a.details--price {
+    display: block;
+    text-align: center;
+    font-size: 1.25em;
+    margin-top: 0.25em;
+}

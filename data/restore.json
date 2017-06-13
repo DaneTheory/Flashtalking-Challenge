@@ -1,0 +1,207 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Michael Jackson",
+      "github": "mjackson",
+      "twitter": "mjackson",
+      "worksOn": "React Router"
+    },
+    {
+      "id": 2,
+      "name": "Ryan Florence",
+      "github": "ryanflorence",
+      "twitter": "ryanflorence",
+      "worksOn": "React Router"
+    },
+    {
+      "id": 3,
+      "name": "Dan Abramov",
+      "github": "gaearon",
+      "twitter": "dan_abramov",
+      "worksOn": "Redux"
+    },
+    {
+      "id": 4,
+      "name": "Matt Zabriskie",
+      "github": "mzabriskie",
+      "twitter": "mzabriskie",
+      "worksOn": "Axios"
+    },
+    {
+      "id": 5,
+      "name": "Tobias Koppers",
+      "github": "sokra",
+      "worksOn": "Webpack"
+    },
+    {
+      "id": 6,
+      "name": "Sebastian McKenzie",
+      "github": "kittens",
+      "twitter": "sebmck",
+      "worksOn": "Babel"
+    }
+  ],
+"Data": [
+          {
+            "id": "blue-jacket",
+            "title": "Blue Jacket",
+            "type": "product",
+            "price": "68.00",
+            "image": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/images/jackets/blue-jacket.png",
+            "href": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/get.php?category=jackets&product=blue-jacket"
+          },
+          {
+            "id": "green-jacket",
+            "title": "Green Jacket",
+            "type": "product",
+            "price": "68.00",
+            "image": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/images/jackets/green-jacket.png",
+            "href": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/get.php?category=jackets&product=green-jacket"
+          },
+          {
+            "id": "orange-jacket",
+            "title": "Orange Jacket",
+            "type": "product",
+            "price": "75.00",
+            "image": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/images/jackets/orange-jacket.png",
+            "href": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/get.php?category=jackets&product=orange-jacket"
+          },
+          {
+            "id": "red-jacket",
+            "title": "Red Jacket",
+            "type": "product",
+            "price": "63.00",
+            "image": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/images/jackets/red-jacket.png",
+            "href": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/get.php?category=jackets&product=red-jacket"
+          },
+          {
+            "id": "yellow-jacket",
+            "title": "Yellow Jacket",
+            "type": "product",
+            "price": "99.00",
+            "image": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/images/jackets/yellow-jacket.png",
+            "href": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/get.php?category=jackets&product=yellow-jacket"
+          },
+          {
+            "id": "blue-tshirt",
+            "title": "Blue Tshirt",
+            "type": "product",
+            "price": "67.00",
+            "image": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/images/tshirts/blue-tshirt.png",
+            "href": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/get.php?category=tshirts&product=blue-tshirt"
+          },
+          {
+            "id": "purple-tshirt",
+            "title": "Purple Tshirt",
+            "type": "product",
+            "price": "52.00",
+            "image": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/images/tshirts/purple-tshirt.png",
+            "href": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/get.php?category=tshirts&product=purple-tshirt"
+          },
+          {
+            "id": "orange-tshirt",
+            "title": "Orange Tshirt",
+            "type": "product",
+            "price": "95.00",
+            "image": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/images/tshirts/orange-tshirt.png",
+            "href": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/get.php?category=tshirts&product=orange-tshirt"
+        },
+        {
+          "id": "red-tshirt",
+          "title": "Red Tshirt",
+          "type": "product",
+          "price": "58.00",
+          "image": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/images/tshirts/red-tshirt.png",
+          "href": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/get.php?category=tshirts&product=red-tshirt"
+        },
+        {
+          "id": "yellow-tshirt",
+          "title": "Yellow Tshirt",
+          "type": "product",
+          "price": "85.00",
+          "image": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/images/tshirts/yellow-tshirt.png",
+          "href": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/get.php?category=tshirts&product=yellow-tshirt"
+        },
+        {
+          "id": "blue-shoe",
+          "title": "Blue Shoe",
+          "type": "product",
+          "price": "89.00",
+          "image": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/images/shoes/blue-shoe.png",
+          "href": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/get.php?category=shoes&product=blue-shoe"
+        },
+        {
+          "id": "green-shoe",
+          "title": "Green Shoe",
+          "type": "product",
+          "price": "62.00",
+          "image": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/images/shoes/green-shoe.png",
+          "href": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/get.php?category=shoes&product=green-shoe"
+        },
+        {
+          "id": "lightblue-shoe",
+          "title": "Lightblue Shoe",
+          "type": "product",
+          "price": "96.00",
+          "image": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/images/shoes/lightblue-shoe.png",
+          "href": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/get.php?category=shoes&product=lightblue-shoe"
+        },
+        {
+          "id": "purple-shoe",
+          "title": "Purple Shoe",
+          "type": "product",
+          "price": "52.00",
+          "image": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/images/shoes/purple-shoe.png",
+          "href": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/get.php?category=shoes&product=purple-shoe"
+        },
+        {
+          "id": "turqoise-shoe",
+          "title": "Turqoise Shoe",
+          "type": "product",
+          "price": "50.00",
+          "image": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/images/shoes/turqoise-shoe.png",
+          "href": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/get.php?category=shoes&product=turqoise-shoe"
+        },
+        {
+          "id": "blue-hat",
+          "title": "Blue Hat",
+          "type": "product",
+          "price": "82.00",
+          "image": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/images/hats/blue-hat.png",
+          "href": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/get.php?category=hats&product=blue-hat"
+        },
+        {
+          "id": "green-hat",
+          "title": "Green Hat",
+          "type": "product",
+          "price": "86.00",
+          "image": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/images/hats/green-hat.png",
+          "href": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/get.php?category=hats&product=green-hat"
+        },
+        {
+          "id": "orange-hat",
+          "title": "Orange Hat",
+          "type": "product",
+          "price": "66.00",
+          "image": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/images/hats/orange-hat.png",
+          "href": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/get.php?category=hats&product=orange-hat"
+        },
+        {
+          "id": "red-hat",
+          "title": "Red Hat",
+          "type": "product",
+          "price": "84.00",
+          "image": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/images/hats/red-hat.png",
+          "href": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/get.php?category=hats&product=red-hat"
+        },
+        {
+          "id": "yellow-hat",
+          "title": "Yellow Hat",
+          "type": "product",
+          "price": "73.00",
+          "image": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/images/hats/yellow-hat.png",
+          "href": "http://awsstaging.flashtalkingfeeds.com/temp/bas/test-api/get.php?category=hats&product=yellow-hat"
+        }
+      ]
+}
